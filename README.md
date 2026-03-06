@@ -236,14 +236,6 @@ If you want to understand the technologies deeper:
 
 ---
 
-## ⚠️ Important Notes
-
-1. **Respect robots.txt**: Some sites disallow scraping. Check `yoursite.com/robots.txt`
-2. **Rate limiting**: Don't scrape too fast. Our 2-second batch delay is intentional.
-3. **Terms of Service**: LinkedIn's ToS prohibits scraping. Use their official Job Search API for production.
-4. **Legal**: For a commercial product, consult a lawyer about which sites you can scrape.
-
----
 
 Built with ❤️ for job seekers who deserve a fair shot.
 =======
