@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ⚡ JobAlert — Get Hired Before Others See the Posting
 
 > A full-stack job alert platform that scrapes **official company career pages** every 15 minutes and sends you personalized email alerts. Designed for 0-2 year experience candidates who want a head start over LinkedIn and Naukri.
@@ -264,3 +265,6 @@ If you want to understand the technologies deeper:
 ---
 
 Built with ❤️ for job seekers who deserve a fair shot.
+=======
+# JobAlert
+>>>>>>> d089b7f6aedd600644a9e595d574df2a8eb77c1f
