@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # ⚡ JobAlert — Get Hired Before Others See the Posting
 
 > A full-stack job alert platform that scrapes **official company career pages** every 15 minutes and sends you personalized email alerts. Designed for 0-2 year experience candidates who want a head start over LinkedIn and Naukri.
@@ -222,25 +222,6 @@ Edit `backend/seedCompanies.js` and add entries like:
 - If it contains `myworkday.com` → `workday`
 - Otherwise → `custom` (will try HTML scraping)
 
----
-
-## 🚀 Deploying to Production (Sell it!)
-
-### Option A: Free Tier
-- **Backend**: Railway.app or Render.com (free Node.js hosting)
-- **Frontend**: Vercel.com (free React hosting)
-- **Database**: MongoDB Atlas (already set up — free tier)
-- **Email**: SendGrid (100 free emails/day)
-
-### Option B: Paid (₹500-2000/month)
-- **Backend**: DigitalOcean Droplet ($6/month)
-- **Email**: SendGrid Essentials ($15/month for 50k emails)
-
-### Monetization Ideas
-1. **Freemium**: Free = 1 alert/day. Premium (₹299/mo) = instant alerts + more companies
-2. **B2B**: Sell to placement cells, coding bootcamps
-3. **Affiliate**: Earn commission when users apply through your links
-4. **Resume Review**: Upsell resume services when sending alerts
 
 ---
 
